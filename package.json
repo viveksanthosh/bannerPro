@@ -1,0 +1,19 @@
+{
+  "name": "bannerpro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "entry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.corp.inmobi.com:vivek-santhosh/bannerPro.git"
+  },
+  "author": "vivek/vishnu",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-fileupload": "^0.3.0"
+  }
+}
